@@ -3,10 +3,10 @@ A program to display the battery level and current time on the OLED Display
 
 # Components needed
 You need the following list of items:
-*Power Dock 2
-*OLED Expansion
-*Omega2/2+
-*3.7 LiPo Battery
++*Power Dock 2
++*OLED Expansion
++*Omega2/2+
++*3.7 LiPo Battery
 
 # Purpose
 Retreives battery charge and displays on the OLED screen along with the current date and time
